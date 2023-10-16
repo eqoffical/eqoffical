@@ -1,5 +1,5 @@
-- 👋 Hi, I’m eq
-- 👀 I’m interested in developing different stuff
+- 👋 Hi, I’m **eq**
+- 👀 Like, there are a lot of repositories with **low quality code**, I just don't have time to update and clean everything. The best option would be to rewrite each repository and add a release, but I don't know when I'll do that.
 - 🌱 I’m ~~currently learning~~ Python and GDScript, and I also occasionally work with AutoHotkey scripts
 - 💞️ ~~I’m looking to collaborate on ...~~
 - 📫 My [linktree](https://linktr.ee/eqoffical), [contact email](mailto:redko.writeme@skiff.com)
