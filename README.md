@@ -2,4 +2,4 @@
 - 👀 Be careful, there are some repositories with **low quality code**, I just don't have time to update and clean everything. Ideally, it would be great to rewrite these repositories with my current knowledge and add a release, but I don't know when I will do it or if I will do it at all
 - 🌱 I’m ~~currently learning~~ Python and GDScript, also occasionally work with AutoHotkey scripts
 - 💞️ ~~I’m looking to collaborate on ...~~
-- 📫 [Also me](http://kyte.bio/eqoffical)
+- 📫 [Also me]()
